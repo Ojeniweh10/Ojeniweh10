@@ -1,33 +1,27 @@
-# Hi, I’m Alex 👋  
+## 👋 Hi, I'm Alex  
 
-🚀 Backend & AI Engineer | Building the Future of Trading Infrastructure  
+I'm a **Backend AI Software Engineer** passionate about designing and building scalable, production-grade systems that power real-world AI applications.  
 
-I specialize in designing and engineering **trading systems, financial infrastructure, and AI-powered tools** for traders, funds, and fintechs.  
+💡 I specialize in:  
+- **Backend Engineering** → Go, Python, PostgreSQL, REST/gRPC, microservices  
+- **AI Integration** → Deploying and serving LLMs, RAG pipelines, vector databases  
+- **Data & Infrastructure** → ETL pipelines, distributed systems, cloud-native deployments (Docker, Kubernetes)  
+- **System Design** → High-availability APIs, event-driven architectures, real-time messaging  
 
-## 🔑 What I Build
-- **Backtesting engines** (event-driven, portfolio-level, walk-forward testing)  
-- **Execution systems** (smart order routing, VWAP/TWAP, risk-managed trade automation)  
-- **Risk & portfolio dashboards** (VaR, drawdowns, performance attribution)  
-- **Market data systems** (real-time feeds, order book collectors, data pipelines)  
-- **AI for trading** (signal pipelines, anomaly detection, reinforcement learning, trading copilots)  
+🚀 What I love:  
+- Turning AI models into usable products via robust backend systems.  
+- Solving real-world problems by blending **AI + backend engineering**.  
+- Building end-to-end services that businesses can plug into and scale.  
 
-## 🛠️ Tech Stack
-- **Languages**: Go, Python, JavaScript/TypeScript  
-- **Backend**: Distributed systems, APIs, microservices, message queues  
-- **Databases**: PostgreSQL, TimescaleDB, Redis, MongoDB  
-- **Frontend**: React / Next.js, real-time dashboards  
-- **AI/ML**: PyTorch, TensorFlow, scikit-learn, vector DBs  
-- **Cloud/Infra**: Docker, Kubernetes, AWS/GCP, Iaac  
+🌱 Currently focused on:  
+- Mastering **AI agent engineering** and backend-heavy fullstack systems.  
+- Contributing to the **Go and AI ecosystem**.  
+- Building AI-driven backend solutions in public.  
 
-## 🌍 My Mission
-I’m building **100+ trading + AI systems in public**, sharing insights, code, and architecture so traders and fintechs can scale their technology with confidence.  
-
-My long-term mission is to become the **go-to engineer for trading infrastructure in the AI era** — building systems that move markets and help traders gain an edge.  
-
-## 📈 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/alexander-ojeniweh-13b54a1b2/)  
-- 🐦 [X (Twitter)](https://x.com/alexojeniweh)  
-
+📬 Let's connect:  
+- [LinkedIn](#)  
+- [X / Twitter](#)  
+- Portfolio coming soon...  
 
 ---
-*"Trading is the most competitive game on earth. Technology is the edge."*  
+*"Backend first. AI always."*
