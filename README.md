@@ -1,8 +1,39 @@
-# 💫 About Me:
- 👋 Hey, I’m Alexander<br><br>I’m a backend-heavy fullstack engineer specializing in **Golang systems engineering** — building scalable infrastructure, real-time messaging systems, and AI-powered automation.<br><br>💡 My mission: to show how far **Go can go** — from powering backend APIs and distributed systems to serving AI agents and machine learning workloads.<br><br>---<br><br>🔧 What I Work On<br><br>* Backend & infrastructure systems in **Golang**<br>* Real-time, high-performance chat & support systems<br>* AI-powered business agents & automation pipelines<br>* Fintech APIs, distributed systems, and developer tools<br><br>---<br><br🚀 Current Focus<br><br>* Building backend-heavy AI agents in Go<br>* Open-sourcing tools & frameworks for systems engineers<br>* Sharing my journey building in public<br><br>---<br><br> 🌍 About Me<br><br>I believe engineering should create **systems that make or save money** for businesses.<br>I’m based in Nigeria, working globally, and building my path toward high-impact systems, long-term clients, and eventually SaaS products at scale.<br><br>---<br><br>📫 Let’s connect:<br><br>* [LinkedIn](https://linkedin.com/in/alexander-ojeniweh)<br>* [X (Twitter)](https://x.com/ojeniwehalexander)<br>* [Email](ojeniwehalexander@gmail.com)<br><br>---<br><br>> ⚡ *“Great systems compound — just like great engineers.”*<br>
+# Hi, I’m Alex 👋
+
+I’m a **Full-Stack AI Engineer** who builds backend-heavy systems and AI-powered applications that help businesses **make money, save time, and scale efficiently**.
+
+---
+
+# 🚀 What I Do
+
+* **Backend Engineering (Go, Python, TypeScript)** → Robust, scalable APIs and services.
+* **AI-Powered Systems** → AI agents, automation, and analytics that solve business problems.
+* **Full-Stack Development** → Web + Mobile using Flutter & modern frameworks.
+* **Business-Focused Engineering** → Every system I build ties back to real-world impact.
+
+---
+
+## 🔧 Tech Stack
+
+* **Languages:** Go, Python, TypeScript, Dart
+* **Frameworks & Tools:** Fiber,Echo,  FastAPI, Express.js, Flutter
+* **Databases:** PostgreSQL, SQLite, Redis
+* **AI Tools:** LangChain, Vector DBs, OpenAI/LLM integrations
+* **Cloud & DevOps:** Docker, Kubernetes, CI/CD, Cloud Platforms
+
+---
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Alexander ojeniweh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ojeniwehalexander) 
+## 🌱 Currently
+
+* Building AI systems in public to showcase real-world business applications.
+* Exploring deeper into AI agent engineering, backend scalability, and microservices.
+* Sharing my journey across GitHub, LinkedIn, and X.
+
+---
+
+## 📫 Let’s Connect
 
 
+
+If you’re hiring, collaborating, or just geeking out about full-stack + AI engineering, let’s talk! 🚀
