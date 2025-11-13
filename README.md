@@ -6,15 +6,15 @@ I’m a **Backend Engineer** who builds backend-heavy systems and  applications 
 
 # 🚀 What I Do
 
-* **Backend Engineering (Golang)** → Robust, scalable APIs and services.
+* **Backend Engineering (Golang, Typescript)** → Robust, scalable APIs and services.
 * **Business-Focused Engineering** → Every system I build ties back to real-world impact.
 
 ---
 
 ## 🔧 Tech Stack
 
-* **Languages:** Golang
-* **Frameworks & Tools:** Fiber,Echo
+* **Languages:** Golang, Typescript
+* **Frameworks & Tools:** Fiber,Echo, Express
 * **Databases:** PostgreSQL, SQLite, Redis
 * **Cloud & DevOps:** Docker, CI/CD, Aws
 
