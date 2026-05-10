@@ -1,35 +1,55 @@
-# Hi, I’m Alex 👋
+# Alexander
 
-I’m a **Backend Engineer** who builds backend-heavy systems and  applications that help businesses **generate value, make money, save time, and scale efficiently**.
+Full-stack software engineer. Solo operator. Builder.
 
----
+I build custom and AI-powered software systems for digital businesses
+across industries. The work is always tied to one outcome — your business
+makes more money or stops losing it because of what I built.
 
-# 🚀 What I Do
-
-* **Backend Engineering (Golang)** → Robust, scalable APIs and services.
-* **Business-Focused Engineering** → Every system I build ties back to real-world impact.
-
----
-
-## 🔧 Tech Stack
-
-* **Languages:** Golang
-* **Frameworks & Tools:** Fiber, Gorm
-* **Databases:** PostgreSQL, SQLite, Redis
-* **Cloud & DevOps:** Docker, CI/CD, Aws
+Every client engagement teaches me how a different industry works from
+the inside. Where money moves, where it leaks, and where the right system
+changes everything. That cross-industry pattern recognition is part of
+what I bring to every project.
 
 ---
 
+## What I Build
 
-## 🌱 Currently
+- End-to-end full-stack product builds
+- AI integrations and automation that replace expensive manual processes
+- Fintech and payments infrastructure
+- Workflow and operations systems
+- Internal platforms and dashboards that give operators real visibility
 
-* Exploring deeper into Backend engineering, backend scalability, and microservices and how to drive business value using them.
-* Sharing my journey across GitHub, LinkedIn, and X.
 
 ---
 
-## 📫 Let’s Connect
+## Stack
 
+**Languages** — TypeScript · Python · SQL  
+**Frontend** — React · Next.js  
+**Backend** — Node.js · FastAPI  
+**Database** — PostgreSQL · Supabase · Redis  
+**AI/ML** — LLMs · RAG pipelines · AI Agents · OpenAI · Anthropic  
+**Infra** — AWS · GCP · Docker · CI/CD  
+**Payments** — Stripe · Flutterwave · custom integrations  
 
+---
 
-If you’re hiring, collaborating, or just geeking out about backend engineering, let’s talk! 🚀
+## Currently
+
+- Building systems for clients across industries
+- Exploring prediction markets and trading infrastructure out of curiosity
+- Writing about software, business systems, and building on X and LinkedIn
+
+---
+
+## Work With Me
+
+If you have a software problem that is directly costing or limiting your
+business, that's the conversation worth having.
+
+→ [Website](https://yoursite.com)  
+→ [X (Twitter)](https://x.com/ojeniwehalexander)  
+→ [LinkedIn](https://linkedin.com/in/alexander-ojeniweh-13b54a1b2)  
+→ ojeniwehalexander@gmail.com
